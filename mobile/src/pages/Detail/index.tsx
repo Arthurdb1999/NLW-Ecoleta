@@ -61,9 +61,6 @@ const Detail = () => {
     }
 
     return (
-        // <View style={{ flex: 1 }}>
-        //     <Text>oi</Text>
-        // </View>
         <SafeAreaView style={{ flex: 1 }}>
             <View style={styles.container}>
                 <TouchableOpacity onPress={handleNavigateBack}>
