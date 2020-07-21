@@ -27,7 +27,7 @@ interface IBGECityResponse {
 
 const CreatePoint = () => {
     /**
-     * No Typescript, sempre que um arry ou objeto é declarado, faz-se necessário
+     * No Typescript, sempre que um array ou objeto é declarado, faz-se necessário
      * informar o tipo da variável
      */
 
